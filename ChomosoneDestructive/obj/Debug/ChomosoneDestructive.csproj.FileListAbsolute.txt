@@ -1,0 +1,10 @@
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\bin\Debug\ChomosoneDestructive.exe
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\bin\Debug\ChomosoneDestructive.pdb
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.Form1.resources
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.Form2.resources
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.Properties.Resources.resources
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.csproj.GenerateResource.cache
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.exe
+C:\Users\April\source\repos\ChomosoneDestructive\ChomosoneDestructive\obj\Debug\ChomosoneDestructive.pdb
